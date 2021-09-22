@@ -1,0 +1,46 @@
+# output dir
+output
+dataset
+dataset_remain
+cam_retrain_normal
+pictrue
+pictrue_trans
+
+.git
+
+*.jpg
+*.png
+*.txt
+
+# compilation and distribution
+__pycache__
+_ext
+*.pyc
+*.so
+data/
+output/
+.git/
+*egg-info/**
+
+# pytorch/python/numpy formats
+*.pth
+*.pkl
+*.npy
+*.tar
+
+# ipython/jupyter notebooks
+*.ipynb
+**/.ipynb_checkpoints/
+
+# Editor temporaries
+*.swn
+*.swo
+*.swp
+*~
+
+# Pycharm editor settings
+.idea
+
+# VS code
+.vscode
+
